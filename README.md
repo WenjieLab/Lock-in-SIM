@@ -1,2 +1,2 @@
-# -SIM
-The code is developed for XXX SIM reconstruction and is related to the paper XXX (will be updated soon)
+# Lock-in-SIM
+The code is developed for Lock-in-SIM reconstruction and related to our paper XXX (will be updated soon).
