@@ -17,11 +17,13 @@ Note that commercial SIM systems not based on standard SIM theory (3 angles×3 p
 # Methodological details of Lock-in-SIM technique can be found in our publication:
 >Liu W., Zhang M., Zhu W. et al. Visualizing intraorganellar ultrastructures, dynamics, and interactions with open-access background-free Lock-in-SIM. Nature Communications 16, 10765 (2025). 
 https://doi.org/10.1038/s41467-025-65805-w
-
-<img width="432" height="184" alt="image" src="https://github.com/user-attachments/assets/9771967d-0e0a-4216-a029-5ec7011142a5" />
+<br/>
+<img width="432" height="184" alt="image" src="https://github.com/user-attachments/assets/9771967d-0e0a-4216-a029-5ec7011142a5" /><br/>
 
 <img width="433" height="217" alt="image" src="https://github.com/user-attachments/assets/38d95184-565b-439b-8680-d7287fe44a52" />
 
 
+<br/>
+<br/>
 
-Running details of the code can be found in the "User guide.pdf" file.
+# Running details of the code can be found in the "User guide.pdf" file.
