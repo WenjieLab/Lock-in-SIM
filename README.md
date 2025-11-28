@@ -9,7 +9,9 @@ This is the first open-access algorithm compatible across these three platforms 
 
 To facilitate users of commercial SIM systems, we ***additionally provide a Fiji/ImageJ plugin for converting various SIM data sequences***, enabling seamless integration of our algorithm into commercial 2D-SIM data processing workflows.<br/>
 
-Note that commercial SIM systems not based on standard SIM theory (3 angles×3 phases)—such as Zeiss Lattice-SIM, CrestOptics DeepSIM, and Visitech iSIM—are incompatible with our algorithm.
+Note that commercial SIM systems not based on standard SIM theory (3 angles×3 phases)—such as Zeiss Lattice-SIM, CrestOptics DeepSIM, and Visitech iSIM—are incompatible with our algorithm.<br/>
+
+Running details of the code can be found in the "User guide.pdf" file.
 
 <br/>
 
@@ -24,4 +26,4 @@ https://doi.org/10.1038/s41467-025-65805-w
 
 <br/>
 
-## Running details of the code can be found in the "User guide.pdf" file.
+
