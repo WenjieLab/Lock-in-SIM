@@ -1,4 +1,8 @@
 # Lock-in-SIM Introduction
+
+https://github.com/user-attachments/assets/b51ae7ee-bba9-46ec-b097-92a5e370799f
+
+
 The Lock-in-SIM algorithm was developed primarily to ***eliminate background and enhance effective resolution in 2D-SIM imaging***.<br/>
 
 We offer three open-access Lock-in-SIM software platforms: ***MATLAB GUI, Fiji/ImageJ plugin, and an executable software*** version.<br/>
@@ -29,7 +33,7 @@ https://doi.org/10.1038/s41467-025-65805-w
 
 
 
-https://github.com/user-attachments/assets/333ebe92-eadd-428f-9211-5b6e41c11eb7
+
 
 
 
