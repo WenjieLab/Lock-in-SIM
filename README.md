@@ -19,6 +19,8 @@ Running details of the code can be found in the "User guide.pdf" file.
 >Liu W., Zhang M., Zhu W. et al. Visualizing intraorganellar ultrastructures, dynamics, and interactions with open-access background-free Lock-in-SIM. Nature Communications 16, 10765 (2025). 
 https://doi.org/10.1038/s41467-025-65805-w
 <br/>
+<img/>
+
 <img width="704" height="347" alt="image" src="https://github.com/user-attachments/assets/a49d6dc8-c914-4cd9-af1b-d1878dfac4fe" />
 <br/>
 <img width="704" height="300" alt="image" src="https://github.com/user-attachments/assets/9771967d-0e0a-4216-a029-5ec7011142a5" />
@@ -27,8 +29,11 @@ https://doi.org/10.1038/s41467-025-65805-w
 <br/>
 
 
-
 https://github.com/user-attachments/assets/c872d70e-eead-45dd-aff6-494f200f9366
+
+
+https://github.com/user-attachments/assets/ae6edb43-2564-49e3-a4fa-5e7b5d4ebec8
+
 
 
 
