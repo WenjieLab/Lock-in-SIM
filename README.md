@@ -1,6 +1,9 @@
 # Lock-in-SIM Introduction
 
-https://github.com/user-attachments/assets/b51ae7ee-bba9-46ec-b097-92a5e370799f
+
+https://github.com/user-attachments/assets/d5b3ef6c-070c-47b7-bdad-9c914f9baf7d
+
+
 
 
 The Lock-in-SIM algorithm was developed primarily to ***eliminate background and enhance effective resolution in 2D-SIM imaging***.<br/>
