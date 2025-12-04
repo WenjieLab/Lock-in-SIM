@@ -1,12 +1,11 @@
 # Lock-in-SIM Introduction
 
 
-https://github.com/user-attachments/assets/d5b3ef6c-070c-47b7-bdad-9c914f9baf7d
+![Lock-in-SIM_Lovely mitochondrial cristae dynamics](https://github.com/user-attachments/assets/1369a52e-6a6e-4f28-91aa-650ffdc8114a)
+<br/>Lock-in-SIM imaging of lovely mitochondrial inner membrane dynamics
 
-
-
-
-The Lock-in-SIM algorithm was developed primarily to ***eliminate background and enhance effective resolution in 2D-SIM imaging***.<br/>
+<br/>
+The Lock-in-SIM algorithm was developed primarily to ***eliminate background and enhance effective resolution in 2D-SIM imaging’***.<br/>
 
 We offer three open-access Lock-in-SIM software platforms: ***MATLAB GUI, Fiji/ImageJ plugin, and an executable software*** version.<br/>
 
@@ -35,18 +34,17 @@ https://doi.org/10.1038/s41467-025-65805-w
 
 
 
+![Lock-in-SIM_ER-Lysosome interactions](https://github.com/user-attachments/assets/eff2edad-a5e7-494c-b50d-79ec4e8d95c7)
+<br/>Lock-in-SIM imaging of ER-Lysosome interactions
 
 
 
 
 
-
-https://github.com/user-attachments/assets/0f4e409c-fb53-4e70-8b59-e3bf23b8039e
-
-
+![Lock-in-SIM_3D reconstruction](https://github.com/user-attachments/assets/d371c4a2-1b77-40c9-bb5a-e96bbf8f45c0)
+<br/>Lock-in-SIM 3D reconstruction
 
 
-https://github.com/user-attachments/assets/ccc44a07-0f82-4101-9e4f-7779f61cd407
 
 
 
