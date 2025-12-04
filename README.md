@@ -5,7 +5,8 @@
 <br/>Lock-in-SIM imaging of lovely mitochondrial inner membrane dynamics
 
 <br/>
-The Lock-in-SIM algorithm was developed primarily to ***eliminate background and enhance effective resolution in 2D-SIM imaging’***.<br/>
+
+The Lock-in-SIM algorithm was developed primarily to ***eliminate background and enhance effective resolution in 2D-SIM imaging***.<br/>
 
 We offer three open-access Lock-in-SIM software platforms: ***MATLAB GUI, Fiji/ImageJ plugin, and an executable software*** version.<br/>
 
